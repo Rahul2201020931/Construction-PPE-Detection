@@ -1,5 +1,3 @@
-Here's a polished `README.md` for your **Construction-PPE-Detection** project using YOLO:
-
 ---
 
 # 🚧 Construction PPE Detection System  
@@ -44,9 +42,6 @@ Place your pre-trained model (`best.pt`) in the project root or specify its path
 ```bash
 safety_control.py
 ```
-
-Here’s the updated **README.md** with a **Deployment** section (add it under **Demo** or as a new section):
-
 ---
 
 ## 🌐 Deployment  
@@ -108,17 +103,6 @@ Construction-PPE-Detection/
 └── test_videos/           # Sample videos for testing
     └── ppe-3-1.mp4        
 ```
-
----
-
-## 🎥 Demo  
-1. **Run the script**:  
-   ```bash
-   python detect_ppe.py
-   ```
-2. **Press `Q`** to exit the live detection window.  
-
-*(Add a short GIF/video demo here if possible.)*  
 
 ---
 
